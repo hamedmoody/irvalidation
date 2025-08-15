@@ -3,7 +3,7 @@ namespace Hamedmoody\Irvalidation;
 
 class Validation{
 
-    public static function is_valid_national_code( $code ){
+    public static function is_valid_national_code( $code ):bool{
 
         $code = trim( $code );
 
