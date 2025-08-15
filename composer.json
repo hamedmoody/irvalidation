@@ -1,0 +1,19 @@
+{
+    "name": "hamedmoody/irvalidation",
+    "description": "Library for validate Ir formats",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hamedmoody\\Irvalidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamed Moodi",
+            "email": "hamedmoodi2011@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
