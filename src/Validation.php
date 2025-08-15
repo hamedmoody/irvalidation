@@ -3,6 +3,9 @@ namespace Hamedmoody\Irvalidation;
 
 class Validation{
 
+    /**
+     * Validate Ir national code
+     */
     public static function is_valid_national_code( $code ):bool{
 
         $code = trim( $code );
